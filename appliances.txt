@@ -1,0 +1,16 @@
+LED Bulb,9,5
+Television,50,6
+Rice cooker,600,0.5
+Toaster,850,0.5
+Water Pump,750,1
+Blender,400,2
+Ceiling Fan Living,75,8
+Refrigerator,150,24
+Induction Cooker,1800,1
+Space Heater,1500,2
+Vacuum Cleaner,1400,0.3
+Electric Oven,2400,0.5
+Air Conditioner Bedroom,1000,6
+Hair Dryer,1200,0.2
+Gaming Console,150,2
+Microwave Oven,1200,0.5
