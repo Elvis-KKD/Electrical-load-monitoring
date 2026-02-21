@@ -1,10 +1,10 @@
 # Electrical-load-monitoring
 
-# =============== README.md ===============
+# === README.md ===
 # Electrical Load Monitoring and Billing Simulator
 
 ## Project Overview
-A C++ console application for HND Electrical Engineering students to simulate electrical load monitoring and electricity billing for small facilities or households.
+A C++ console application to simulate electrical load monitoring and electricity billing for small facilities or households.
 
 ## Features
 - Appliance Management: Add, view, search, and delete electrical appliances
@@ -27,5 +27,5 @@ A C++ console application for HND Electrical Engineering students to simulate el
 - Git for version control
 
 ### Compilation
-`bash
+bash 
 g++ main.cpp Appliance.cpp EnergyMonitor.cpp -o load_monitor.exe
